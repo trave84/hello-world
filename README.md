@@ -1,2 +1,2 @@
 # hello-world
-First steps of github
+First steps on github
